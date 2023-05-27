@@ -35,9 +35,10 @@
 ### フレームワーク
 <p>
   <img alt="Spring" src="https://img.shields.io/badge/-spring-green"/>
-  <img alt="SpringMVC" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white" />
-  <img alt="Mybatis-plus" src="https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white" />
-  <img alt="Struts" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white" />  
+  <img alt="SpringMVC" src="https://img.shields.io/badge/-springMVC-yellowgreen"/>
+  <img alt="SpringBoot" src="https://img.shields.io/badge/-springBoot-yellow"/>
+  <img alt="Mybatis-plus" src="https://img.shields.io/badge/-Mybatis--plus-lightgrey"/>
+  <img alt="Struts" src="https://img.shields.io/badge/-Struts-blue"/>  
 </p>
 
 ## 職務経歴詳細
