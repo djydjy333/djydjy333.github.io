@@ -2,7 +2,7 @@
 
 ## 基本情報
 
-|key|value|
+|項目|内容|
 |---|---|
 |氏名|鄧 君陽（Deng JunYang）|
 |生年月|1992年3月|
@@ -29,7 +29,13 @@
   <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white" />
   <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white" />
 </p>
-
+### フレームワーク
+<p>
+  <img alt="Spring" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" />
+  <img alt="SpringMVC" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white" />
+  <img alt="Mybatis-plus" src="https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white" />
+  <img alt="Struts" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white" />  
+</p>
 ---
 
 ## 職務経歴詳細
