@@ -30,8 +30,6 @@
   <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white" />
 </p>
 
----
-
 ### フレームワーク
 <p>
   <img alt="Spring" src="https://img.shields.io/badge/-spring-green"/>
