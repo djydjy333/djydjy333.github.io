@@ -60,7 +60,8 @@
     - 管理画面の設計、開発、単体テスト、結合テスト
 
 #### 自社通販サイト改修プロジェクト
-- [プロジェクトURL](https://www.murauchi.com/MCJ-front-web/index.html)
+- **プロジェクトのURL：**
+    - [https://www.murauchi.com/MCJ-front-web/index.html](https://www.murauchi.com/MCJ-front-web/index.html)
 - **開発期間：**
     - 2021年8月～現在
 - **プロジェクト規模：**
@@ -76,6 +77,8 @@
     - 買い物カートの改修など、サイトの機能改善
 
 #### ホームページ作成サービス
+- **プロジェクトのURL：**
+    - [https://inkrich.com/](https://inkrich.com/)
 - **開発期間：**
     - 2021年8月～現在
 - **プロジェクト規模：**
