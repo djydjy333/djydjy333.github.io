@@ -130,11 +130,11 @@
 
 #### 社内勤怠管理システム
 - **開発期間：**
-    - 2021年8月～現在
+    - 2020年4月～2020年9月
 - **プロジェクト規模：**
-    - 8〜12 人チームでの開発
+    - 4〜6 人チームでの開発
 - **開発ツール：**
-    - Java,Js,IBM DB2,Struts,WebSphere
+    - Java,MySQL,Spring
 - **プロジェクト概要：**
     - 入出荷・在庫管理から棚卸し業務までをカバーする倉庫管理システムです。自社通販サイトとの連携により、会員管理、商品管理、受発注管理などの機能を実現します。
 - **担当フェーズ：**
@@ -148,11 +148,11 @@
 - **プロジェクトのURL：**
     - [https://www.ricoh-imaging.co.jp/english/support/download/app/image-sync](https://www.ricoh-imaging.co.jp/english/support/download/app/image-sync/)
 - **開発期間：**
-    - 2021年8月～現在
+    - 2020年1月～2021年3月
 - **プロジェクト規模：**
-    - 8〜12 人チームでの開発
+    - 3〜5 人チームでの開発
 - **開発ツール：**
-    - Java,Js,IBM DB2,Struts,WebSphere
+    - Swift,SQLite
 - **プロジェクト概要：**
     - モバイルデバイスからリモート撮影、画像の再生、画像のモバイルデバイスへのコピー、SNSへのアップロードなどができるアプリケーションです。
 - **担当フェーズ：**
@@ -166,11 +166,11 @@
 - **プロジェクトのURL：**
     - [https://www.nec-solutioninnovators.co.jp/sl/einou/index.html](https://www.nec-solutioninnovators.co.jp/sl/einou/index.html)
 - **開発期間：**
-    - 2021年8月～現在
+    - 2019年4月～2019年12月
 - **プロジェクト規模：**
     - 8〜12 人チームでの開発
 - **開発ツール：**
-    - Java,Js,IBM DB2,Struts,WebSphere
+    - Java,Js,Spring,Oracle
 - **プロジェクト概要：**
     - 入出荷・在庫管理から棚卸し業務までをカバーする倉庫管理システムです。自社通販サイトとの連携により、会員管理、商品管理、受発注管理などの機能を実現します。
 - **担当フェーズ：**
