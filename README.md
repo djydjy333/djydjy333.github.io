@@ -147,7 +147,7 @@
 
 #### カメラコントローラーアプリ
 - **プロジェクトのURL：**
-    - [https://www.ricoh-imaging.co.jp/english/support/download/app/image-sync](https://www.ricoh-imaging.co.jp/english/support/download/app/image-sync)
+    - [https://www.ricoh-imaging.co.jp/english/support/download/app/image-sync](https://www.ricoh-imaging.co.jp/english/support/download/app/image-sync/)
 - **開発期間：**
     - 2021年8月～現在
 - **プロジェクト規模：**
