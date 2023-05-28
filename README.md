@@ -78,7 +78,7 @@
 
 #### ホームページ作成サービス
 - **プロジェクトのURL：**
-    - [https://inkrich.com/](https://inkrich.com/)
+    - [https://inkrich.com](https://inkrich.com)
 - **開発期間：**
     - 2021年8月～現在
 - **プロジェクト規模：**
