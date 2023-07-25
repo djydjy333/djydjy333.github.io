@@ -188,7 +188,7 @@
 - **プロジェクトのURL：**
     - [https://www.nec-solutioninnovators.co.jp/sl/einou/index.html](https://www.nec-solutioninnovators.co.jp/sl/einou/index.html)
 - **開発期間：**
-    - 2019年6月～2019年12月
+    - 2019年7月～2019年12月
 - **プロジェクト規模：**
     - 4〜6 人チームでの開発
 - **開発ツール：**
