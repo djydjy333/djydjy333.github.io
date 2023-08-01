@@ -63,8 +63,6 @@
   - デザインパターンを活用して、システムを最適化しました。自動化ツールを作成して、自動的にネストされたファイルを抽出し、仕事効率を向上させました。技術のドキュメントを作成し、他のメンバーに活用してもらいました。
 
 #### ショッピングサイト
-- **プロジェクトのURL：**
-    - [https://www.murauchi.com/MCJ-front-web/index.html](https://www.murauchi.com/MCJ-front-web/index.html)
 - **開発期間：**
     - 2021年8月～2023年6月
 - **プロジェクト規模：**
@@ -83,10 +81,8 @@
     - テスト仕様書作成
 - **実績・取り組み等：**
   - キャッシュ、SQL文最適化、非同期通信（Ajax）を活用して、商品一覧の表示速度を改善しました。
- 
+
 #### ホームページ作成サービス
-- **プロジェクトのURL：**
-    - [https://inkrich.com](https://inkrich.com)
 - **開発期間：**
     - 2021年8月～2023年6月
 - **プロジェクト規模：**
@@ -165,8 +161,6 @@
   - Excelで指定フォーマットの勤怠時間レポートに工夫を凝らし、人事の仕事効率改善を実現しました。
 
 #### カメラコントローラーアプリ
-- **プロジェクトのURL：**
-    - [https://www.ricoh-imaging.co.jp/english/support/download/app/image-sync](https://www.ricoh-imaging.co.jp/english/support/download/app/image-sync/)
 - **開発期間：**
     - 2020年1月～2021年3月
 - **プロジェクト規模：**
@@ -185,8 +179,6 @@
   - 一眼カメラとアプリとの交換性と動作確認を実施しました。既存のアプリにおいて動作不良のバグを検出し、改修しました。
 
 #### 営農指導支援システム
-- **プロジェクトのURL：**
-    - [https://www.nec-solutioninnovators.co.jp/sl/einou/index.html](https://www.nec-solutioninnovators.co.jp/sl/einou/index.html)
 - **開発期間：**
     - 2019年7月～2019年12月
 - **プロジェクト規模：**
